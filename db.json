@@ -69,6 +69,36 @@
       "city": "asdf",
       "country": "USA",
       "id": 2
+    },
+    {
+      "city": "Kennett",
+      "country": "USA",
+      "id": 3
+    },
+    {
+      "city": "Kennett",
+      "country": "India",
+      "id": 4
+    },
+    {
+      "city": "Kennett",
+      "country": "China",
+      "id": 5
+    },
+    {
+      "city": "Kennett",
+      "country": "India",
+      "id": 6
+    },
+    {
+      "city": "Kennett",
+      "country": "China",
+      "id": 7
+    },
+    {
+      "city": "Kennett",
+      "country": "USA",
+      "id": 8
     }
   ]
 }
